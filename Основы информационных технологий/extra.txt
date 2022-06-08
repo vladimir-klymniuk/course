@@ -1,0 +1,27 @@
+RAM memory
+
+Random Access Memory (RAM) is a computer's short-term memory,
+where data that the processor is currently using is stored temprorarily. 
+
+Случайно-доступная память. Это кратковременная компьютерная память,
+где хранятся данные которые используются процессором сейчас.
+
+RAM memory can be accessed much faster than data on a hard disk, SDD, 
+or other long-term storage device, which is why RAM 
+capacity is so important for system perfomance.
+
+RAM может быть доступна намного быстрее чем данные на жестком диске,
+или другом долгосрочном хранилище, поетому обьем РАМ так важен для 
+системной производительности.
+
+Random-access memory RAM is a form of computer memory
+that ca be read and changed in any order, typically used to
+store working data and machine code.
+
+РАМ память это тип компьютерной памяти который может быть 
+изменемн в любом порядке, обычно используется для 
+хранения рабочих (активных) данных и машиного кода
+
+
+Разобратся с типами оперативной памяти и их различиями.
+
