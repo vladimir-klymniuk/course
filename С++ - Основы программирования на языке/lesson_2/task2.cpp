@@ -1,1 +1,36 @@
-// Задание 2: Вычислить пройденное расстояние при прямолинейном равноускоренном движении по формуле S = v*t + (a*t2) / 2, где v – скорость, t – время, а – ускорение.
+// Задание 2:
+// Вычислить пройденное расстояние 
+// при прямолинейном равноускоренном движении по формулe:
+    // S = v * t + (a * t^2) / 2;
+    // v – скорость;
+    // t – время;
+    // а – ускорение.
+
+#include <iostream>
+
+using namespace std;
+
+// void testResult(float expected, float actual, string say)
+
+float calculateDistance(float speed, float time, float nitro) {
+    return (speed * time) + (nitro * (time * time)) / 2;
+}
+
+int main() {
+    float speed, time, nitro;
+
+    cout << "This code gonna calculate the passed distance." << endl;
+    cout << "Please, fille the required parameters.";
+    cout << "Speed:" << endl;
+    cin >> speed;
+
+    cout << "Time:" << endl;
+    cin >> time;
+
+    cout << "Nitro:" << endl;
+    cin >> nitro;
+
+    cout << "Result is - " << calculateDistance(speed, time, nitro) << endl;
+
+    return 0;
+}
