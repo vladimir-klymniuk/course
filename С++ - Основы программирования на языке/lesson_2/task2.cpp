@@ -10,8 +10,6 @@
 
 using namespace std;
 
-// void testResult(float expected, float actual, string say)
-
 float calculateDistance(float speed, float time, float nitro) {
     return (speed * time) + (nitro * (time * time)) / 2;
 }
