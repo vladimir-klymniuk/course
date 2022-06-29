@@ -1,0 +1,35 @@
+В своем ПК узнать информацию по материнской плате:
+
+   1. Производитель.
+   2. Сокет.
+   3. Количество слотов ОЗУ.
+   4. Количество слотов PCIeX
+   5. Наличие слота М2.
+   6. Тип портов для подключения дисков.
+   7. Количество портов для подключения дисков.
+   8. Дополнительно можете дополнить.
+
+   1. Apple, 2015, intel5
+   2. не разобрался
+   3. 1, 8GB of 1866MHz LPDDR3 onboard memory (разделена на два блока по 4 гб ОЗУ )
+   4. 0, SSD PCIe 128GB
+   5. 0
+   6. внешние интерфейсы для подключения Thunderbolt, USB
+   7. Thunderbolt х 2 / USB4 х 1,  USB3 х 1
+
+https://manuals.info.apple.com/MANUALS/1000/MA1695/en_US/macbook-pro-retina-13-early2015-essentials.pdf
+https://www.ebay.com/itm/265358537956?epid=1053378660
+https://support.apple.com/kb/sp715?locale=en_GB
+https://www.apple.com/macbook-pro-13/specs/
+
+
+
+   1. ASUS (Pro WS X299 SAGE II)
+   2. Socket 2066
+   3. 8
+   4. 0, : 7 × PCIe x16
+   5. 2
+   6. SATA (Поддержка RAID массивов: 0/1/5/10)
+   7. SATA 6 х 8
+   8. https://hard.rozetka.com.ua/320684443/p320684443
+
