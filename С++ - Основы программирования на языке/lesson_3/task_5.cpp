@@ -11,6 +11,7 @@ using namespace std;
 
 int main() {
     int k;
+    k = 0;
     cout << "Please, enter the multiplier value:" << endl;
     cin >> k;
 
