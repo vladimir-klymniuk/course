@@ -18,8 +18,10 @@ int main() {
     startTime = 0;
 
     cout << "Try to guess the number from one to " << MAX_NUMBER << endl;
-    srand(time(NULL));                               // Mix 
-    findnumber = rand() % (MAX_NUMBER - 1 + 1) + 1;  // Max - Min + Min
+    // srand(time(NULL));                               // Reset internal function cursor 
+    // findnumber = rand() % (MAX_NUMBER - 1 + 1) + 1;  // MAX_NUMBER - Min + Min | wtf =)
+    srand(time(NULL));                                  // Reset internal function  
+    findnumber = rand() % (MAX_NUMBER  + 1);            // MAX + 1
     startTime = time(NULL);
 
     do {
